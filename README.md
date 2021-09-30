@@ -1,4 +1,4 @@
-# social-media-mern-stack
+# social-media-mern-stack;
 so this is a just an social media app created with the mern stack
 register : post /regiser
 login : post /login
